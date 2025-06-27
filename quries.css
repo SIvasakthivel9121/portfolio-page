@@ -123,6 +123,7 @@
     align-items: center;
     text-align: center;
     gap: 2rem;
+    margin-bottom: 10rem;
   }
 
   .img-section {
@@ -187,6 +188,9 @@
   html {
     font-size: 50%;
   }
+  p {
+  font-size: 18px;
+  }
 
   .full-intro {
     flex-direction: column;
@@ -224,7 +228,4 @@
     width: 36px;
     height: 36px;
   }
-}
-p {
-  font-size: 18px;
 }
