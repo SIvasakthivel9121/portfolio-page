@@ -184,6 +184,12 @@
   .project-des-2 p {
     font-size: 13px;
   }
+  .project-des-1 ul {
+    font-size: 13px;
+  }
+  .project-des-2 ul {
+    font-size: 13px;
+  }
 }
 /* Ultra-Narrow Screens (≤380px) — Fully Refined */
 @media (max-width: 380px) {
@@ -282,5 +288,11 @@
     font-size: 1.3rem;
     text-align: center;
     width: 100px;
+  }
+  .project-des-1 ul {
+    font-size: 1.7rem;
+  }
+  .project-des-2 ul {
+    font-size: 1.7rem;
   }
 }
