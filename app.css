@@ -156,6 +156,7 @@ p {
   transform: scale(1.05);
 }
 .about-me {
+  margin-top: 30rem;
   margin-bottom: 20rem;
 }
 .about {
